@@ -1,0 +1,19 @@
+header{
+    background-image: url(/img/image-31.jpg); 
+    height: 485px;
+}
+.dropdown a{
+    color: white;
+    font-size: 18px;
+}
+.dropdown-menu a{
+    color: black;
+    font-size: 15px;
+}
+.container h1{
+    color: white;
+    margin: 100px 0px 0px 10px;
+}
+.container h1 p{
+    padding-top: 30px;
+}
